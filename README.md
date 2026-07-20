@@ -1,68 +1,64 @@
-# Pawan Sapkal
+<h1 align="center">Pawan Sapkal</h1>
+<h3 align="center">ECE Student — Gati Shakti Vishwavidyalaya | Software, Cloud & Embedded Systems</h3>
 
-**B.Tech Electronics & Communication Engineering (ECE) Student @ Gati Shakti Vishwavidyalaya**
+<p align="center">
+Engineering student building across software, cloud infrastructure, and embedded systems —
+from programming microcontrollers and designing custom circuits, to deploying and maintaining
+full-stack web applications and serverless architecture in production.
+</p>
 
-I am an engineering student building across software, cloud infrastructure, AI, and embedded systems. My experience ranges from programming microcontrollers and designing custom circuits to deploying and maintaining full-stack web applications and scalable serverless architecture in production.
+<p align="center">
+LinkedIn: <a href="https://www.linkedin.com/in/pawan-sapkal/">linkedin.com/in/pawan-sapkal</a> &nbsp;·&nbsp;
+Instagram: <a href="https://instagram.com/Pawan_Sapkal">@Pawan_Sapkal</a>
+</p>
 
----
+<br>
 
-## 🏆 Achievements
+## Achievements
 
-*   **2nd Place (AI Domain Runner-Up) — Codeversity National Level Hackathon 2026 @ IIT Gandhinagar**
-    *   Team: *!!!SyntaxError!!!* 
-    *   Project: **ParkSense**, an AI-powered smart parking prediction system.
+**2nd Place — AI Domain** · Codeversity National Level Hackathon 2026, IIT Gandhinagar
+Team *!!!SyntaxError!!!* — Project: ParkSense
 
----
+<br>
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🌦️ Saurashtra Paus | *Solo Production Project*
-A production-grade, Marathi-first weather platform built to provide accurate, localized weather data and agricultural insights for farmers across Maharashtra.
-*   **Architecture & Deployment:** Serverless deployment via Cloudflare Pages and Workers, automated via GitHub Actions. Configured custom DNS, SSL, and performance monitoring.
-*   **Features:** District-based dynamic pages, mobile-first optimization, caching via Service Workers, and SEO. 
-*   **Data Integration:** Integrated real-time weather APIs using Open-Meteo and Visual Crossing.
-*   **Infrastructure Evolution:** Originally built and tested using Node.js/Express on self-managed Linux servers before migrating to a highly scalable Cloudflare edge architecture. 
-*   [Visit Website](https://saurashtrapaus.com) <!-- Replace with actual direct URL --> | [View Repository](https://github.com/PawanSapkal/SaurashtraPaus) <!-- Replace with actual repo URL -->
+### [Saurashtra Paus](https://saurashtrapaus.tech) — Solo Production Project
+A production, Marathi-first weather platform delivering localized forecasts and agricultural insights to farmers across Maharashtra.
 
-### 🚗 ParkSense | *Hackathon AI Runner-Up*
-An AI-based smart parking system designed to predict and optimize urban parking availability.
-*   Developed alongside team *!!!SyntaxError!!!* to tackle urban infrastructure challenges with real-world applicability.
-*   [View Repository](https://github.com/PawanSapkal/ParkSense) <!-- Replace with actual repo URL -->
+- **Architecture & Deployment** — Serverless on Cloudflare Pages and Workers; custom DNS, SSL, and performance monitoring configured end-to-end
+- **Features** — District-based dynamic pages for all of Maharashtra, mobile-first UX, Service Worker caching, and SEO-focused architecture
+- **Data Integration** — Live weather data from Open-Meteo and Visual Crossing APIs
+- **Infrastructure Evolution** — Originally prototyped on a self-managed Node.js/Express Linux server, then migrated to Cloudflare's serverless edge architecture for production
 
-### 🤖 Autonomous Maze-Solving Robot | *Embedded Systems*
-A hardware-software integration project focusing on autonomous navigation through physical environments.
-*   **Hardware:** Designed custom circuits and integrated sensory arrays with a Raspberry Pi Pico.
-*   **Software:** Programmed the core logic and motor control entirely in C/C++ to process real-time sensor data and navigate complex mazes autonomously.
-
-### 🎮 Gamified Learning Platform | *EdTech Hackathon Build*
-An interactive platform built to teach students complex concepts through engaging, game-based learning environments.
+`JavaScript` `TypeScript` `Cloudflare Workers` `Service Workers` `REST APIs` `SEO`
 
 ---
 
-## 🛠️ Technical Experience
+### [ParkSense](https://github.com/anmol-2-4/ParkSense_) — Hackathon Runner-Up, AI Domain
+An AI-based smart parking system predicting and optimizing urban parking availability, built with team *!!!SyntaxError!!!* to address real-world urban infrastructure challenges.
+
+`AI` `Urban Tech` `Team Project`
+
+---
+
+### [Autonomous Maze-Solving Robot](https://github.com/Pawansapkal/Maze-Solving-Robot-Code) — Embedded Systems
+A hardware-software integration project focused on autonomous navigation through physical environments.
+
+- **Hardware** — Custom circuit design with IR and ultrasonic sensors integrated on a Raspberry Pi Pico
+- **Software** — Real-time navigation and motor control logic written entirely in C/C++
+
+`C` `C++` `Raspberry Pi Pico` `Robotics` `Sensor Integration`
+
+<br>
+
+## Technical Skills
 
 **Software & Web**
-*   JavaScript/TypeScript, HTML/CSS
-*   API Integration (Open-Meteo, Visual Crossing, REST)
-*   Service Workers, Web Performance Optimization, SEO
+JavaScript, TypeScript, HTML/CSS, API Integration (Open-Meteo, Visual Crossing, REST), Service Workers, Web Performance Optimization, SEO
 
 **Infrastructure, DevOps & Cloud**
-*   Linux Server Administration
-*   Cloudflare (Pages, Workers, Tunnels), DNS, SSL
-*   Docker & Docker Compose
-*   Self-Hosted Tools: Portainer, Uptime Kuma, n8n
-*   CI/CD: Git, GitHub Actions
+Linux Server Administration, Cloudflare (Pages, Workers, Tunnels), DNS, SSL, Docker & Docker Compose, Self-Hosted Tools (Portainer, Uptime Kuma, n8n), CI/CD (Git, GitHub Actions, Cloudflare native Git integration)
 
-**Hardware, AI & Embedded Systems**
-*   C/C++
-*   Microcontrollers (Raspberry Pi Pico)
-*   Custom Circuit Design, Sensor Integration, Robotics
-*   AI Integrations & Implementations
-
----
-
-## 📈 Connect
-
-*   **Portfolio/Website:** [Saurashtra Paus](https://saurashtrapaus.com) <!-- Replace with actual direct URL -->
-*   **Instagram:** [@PawanSapkal](https://instagram.com/pawansapkal) <!-- Replace with actual username URL -->
-*   **Telegram:** [t.me/PawanSapkal](https://t.me/pawansapkal) <!-- Replace with actual direct link -->
+**Hardware & Embedded Systems**
+C/C++, Microcontrollers (Raspberry Pi Pico), Custom Circuit Design, Sensor Integration, Robotics
