@@ -1,8 +1,8 @@
 <h1 align="center">Pawan Sapkal</h1>
-<h3 align="center">ECE Student — Gati Shakti Vishwavidyalaya | Software, Cloud & Embedded Systems</h3>
+<h3 align="center">ECE Student: Gati Shakti Vishwavidyalaya | Software, Cloud & Embedded Systems</h3>
 
 <p align="center">
-Engineering student building across software, cloud infrastructure, and embedded systems —
+Engineering student building across software, cloud infrastructure, and embedded systems
 from programming microcontrollers and designing custom circuits, to deploying and maintaining
 full-stack web applications and serverless architecture in production.
 </p>
@@ -35,7 +35,7 @@ A production, Marathi-first weather platform delivering localized forecasts and 
 
 ---
 
-### [ParkSense](https://github.com/anmol-2-4/ParkSense_) — Hackathon Runner-Up, AI Domain
+### [ParkSense](https://github.com/anmol-2-4/ParkSense_) Hackathon Runner-Up, AI Domain
 An AI-based smart parking system predicting and optimizing urban parking availability, built with team *!!!SyntaxError!!!* to address real-world urban infrastructure challenges.
 
 `AI` `Urban Tech` `Team Project`
